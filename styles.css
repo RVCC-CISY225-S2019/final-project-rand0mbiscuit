@@ -203,6 +203,7 @@ footer {
 
 .back-to-top {
     text-align: center;
+    background-color: #333;
 }
 
 .my-picture {
@@ -219,4 +220,16 @@ span {
     width: 0.7em;
     font-size: 400%;
     line-height: 80%;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color:red;
+}
+
+a:hover {
+    color: pink;
 }
